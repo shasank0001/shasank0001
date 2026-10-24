@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Shasank Varma — AI engineer</title>
+  <desc id="desc">Agentic RAG and efficient language models, with a subtle connected-node pattern.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#496073" opacity="0.25"/></pattern>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="1199" height="209" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="210" fill="#101923"/>
+    <rect x="745" width="455" height="210" fill="url(#grid)"/>
+    <text x="47" y="85" font-family="Lato, sans-serif" font-size="52" font-weight="700" letter-spacing="-1" fill="#F2F6FA">Shasank Varma</text>
+    <text x="49" y="126" font-family="Lato, sans-serif" font-size="25" fill="#C1CFDC">AI engineer</text>
+    <text x="49" y="174" font-family="Lato, sans-serif" font-size="22" fill="#9CACBE">Agentic RAG &amp; efficient language models</text>
+
+    <g fill="none" stroke="#334756" stroke-width="1.4">
+      <path d="M824 50 946 72 1085 44M824 50 946 138 1085 105M824 105 946 72 1085 164M824 105 946 138 1085 164M824 163 946 72M824 163 946 138 1085 44"/>
+      <path d="M1085 44 1148 80M1085 105 1148 80M1085 105 1148 143M1085 164 1148 143"/>
+    </g>
+    <path d="M824 105 946 72 1085 105 1148 143" fill="none" stroke="#72A3B4" stroke-width="2"/>
+    <g fill="#101923" stroke="#506577" stroke-width="1.7">
+      <circle cx="824" cy="50" r="7"/><circle cx="824" cy="163" r="7"/>
+      <circle cx="946" cy="138" r="9"/><circle cx="1085" cy="44" r="7"/>
+      <circle cx="1085" cy="164" r="7"/><circle cx="1148" cy="80" r="6"/>
+    </g>
+    <g fill="#101923" stroke="#83AACA" stroke-width="2">
+      <circle cx="824" cy="105" r="8"/><circle cx="946" cy="72" r="10"/>
+      <circle cx="1085" cy="105" r="9"/>
+    </g>
+    <circle cx="1148" cy="143" r="7" fill="#72B3AC"/>
+    <circle cx="946" cy="72" r="3" fill="#83AACA"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="209" rx="12" fill="none" stroke="#2B3B49"/>
+</svg>
