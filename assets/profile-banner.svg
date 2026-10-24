@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Shasank Varma — AI engineer</title>
+  <desc id="desc">A friendly round character connects documents, agent nodes, and a compact model. Agentic RAG and efficient language models.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ABC5D2" opacity="0.28"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="240" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="#ECF5F8"/>
+    <path d="M680 0H1200V240H720C771 176 739 94 680 0Z" fill="#E0EEF2"/>
+    <rect x="695" width="505" height="240" fill="url(#dots)"/>
+    <text x="52" y="91" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.8" fill="#172C3C">Shasank Varma</text>
+    <text x="55" y="130" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#395568">AI engineer</text>
+    <text x="55" y="183" font-family="DejaVu Sans, sans-serif" font-size="21" fill="#395568">Agentic RAG</text>
+    <circle cx="214" cy="176" r="3" fill="#4F9396"/>
+    <text x="231" y="183" font-family="DejaVu Sans, sans-serif" font-size="21" fill="#395568">Efficient language models</text>
+
+    <!-- Sources and connections -->
+    <g fill="none" stroke="#83ADB9" stroke-width="2.3" stroke-linecap="round">
+      <path d="M805 79C850 79 850 92 887 92"/>
+      <path d="M800 158C851 158 854 133 890 133"/>
+      <path d="M990 93C1031 93 1027 58 1063 58"/>
+      <path d="M993 124C1044 124 1041 165 1085 165"/>
+    </g>
+    <g transform="translate(749 40) rotate(-8 30 35)">
+      <rect x="7" y="7" width="49" height="62" rx="7" fill="#CDDFE7"/>
+      <rect width="49" height="62" rx="7" fill="#FFFFFF" stroke="#7698AC" stroke-width="2"/>
+      <path d="M11 17H35M11 28H35M11 39H27" fill="none" stroke="#91ADBE" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(745 135) rotate(7 30 30)">
+      <rect width="55" height="57" rx="8" fill="#FFFFFF" stroke="#7698AC" stroke-width="2"/>
+      <path d="m13 18-6 7 6 7m29-14 6 7-6 7m-18 2 7-18" fill="none" stroke="#4F9396" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M12 44H42" stroke="#CADCE4" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- A character echoing the profile avatar -->
+    <path d="M870 240V195C870 158 891 143 941 143S1012 158 1012 195V240" fill="#FFFFFF" stroke="#203847" stroke-width="3.5"/>
+    <circle cx="941" cy="97" r="54" fill="#FCFEFE" stroke="#203847" stroke-width="3.5"/>
+    <circle cx="922" cy="96" r="6" fill="#203847"/>
+    <circle cx="960" cy="96" r="6" fill="#203847"/>
+    <path d="M932 112Q941 119 950 112" fill="none" stroke="#203847" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M884 189Q870 187 865 174M998 188Q1014 186 1019 171" fill="none" stroke="#203847" stroke-width="3.5" stroke-linecap="round"/>
+
+    <!-- A compact agent graph -->
+    <g stroke="#4F9396" stroke-width="2" fill="none">
+      <path d="M1073 47 1114 30 1135 68 1093 86 1073 47 1135 68M1114 30 1093 86"/>
+    </g>
+    <g fill="#FFFFFF" stroke="#4F9396" stroke-width="2.3">
+      <circle cx="1073" cy="47" r="7"/><circle cx="1114" cy="30" r="7"/><circle cx="1135" cy="68" r="7"/><circle cx="1093" cy="86" r="7"/>
+    </g>
+
+    <!-- Quantized model grid -->
+    <g transform="translate(1085 130)">
+      <rect width="76" height="76" rx="13" fill="#FFFFFF" stroke="#7698AC" stroke-width="2"/>
+      <g stroke="#7698AC" stroke-width="2.3" stroke-linecap="round">
+        <path d="M16-7V0M38-7V0M60-7V0M16 76V83M38 76V83M60 76V83M-7 16H0M-7 38H0M-7 60H0M76 16H83M76 38H83M76 60H83"/>
+      </g>
+      <g fill="#86ABC9">
+        <rect x="15" y="15" width="12" height="12" rx="3"/><rect x="32" y="15" width="12" height="12" rx="3"/><rect x="49" y="15" width="12" height="12" rx="3"/>
+        <rect x="15" y="32" width="12" height="12" rx="3"/><rect x="49" y="32" width="12" height="12" rx="3"/>
+        <rect x="15" y="49" width="12" height="12" rx="3"/><rect x="32" y="49" width="12" height="12" rx="3"/>
+      </g>
+      <g fill="#EACB93"><rect x="32" y="32" width="12" height="12" rx="3"/><rect x="49" y="49" width="12" height="12" rx="3"/></g>
+    </g>
+  </g>
+</svg>
