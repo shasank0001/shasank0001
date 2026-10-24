@@ -1,6 +1,6 @@
 <img src="assets/technical-header.png" width="100%" alt="Shasank Varma — AI engineer focused on agentic RAG and efficient language models." />
 
-I build AI applications that retrieve information, cite their sources, and coordinate specialized agents. I also experiment with training and compressing language models.
+I’m an AI engineer interested in machine learning, software development, and building practical tools.
 
 [LinkedIn](https://www.linkedin.com/in/shasank-varma-06a5a72ab/) · [Email](mailto:sasank.srivatsavai@gmail.com)
 
