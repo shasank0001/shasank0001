@@ -10,7 +10,7 @@ I build AI applications that retrieve information, cite their sources, and coord
 - **5× hackathon winner**, including CognitiveX GenAI (**1st of 200+ teams**; GVP, SmartBridge & IBM) and AI Build-A-Thon (**1st place**; AI for Vizag, Evolutyz Corp.).
 - **Language model training:** [1.1763 bits per byte in 15.50 MB](https://github.com/shasank0001/parameter-golf/blob/main/docs/RESULTS.md), measured after export and reload. A single-GPU, unlimited-compute, non-record experiment in my fork of OpenAI's Parameter Golf.
 
-## Selected projects
+## Featured projects
 
 - **[Blog-Gen](https://github.com/shasank0001/Blog-Gen)** — Researches, writes, and critiques cited articles from web sources and private documents, with human outline approval. [Output screenshot](https://github.com/shasank0001/Blog-Gen/blob/main/assets/screenshots/step6_result.png).
 - **[Self-RAG](https://github.com/shasank0001/self-RAG)** — Document chat with access-controlled workspaces, source citations, query rewriting, grounding checks, and resumable streaming. [Pipeline design](https://github.com/shasank0001/self-RAG/blob/main/docs/pipeline_change_summary.md).
